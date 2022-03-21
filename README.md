@@ -1,2 +1,5 @@
 # cdi-01
-<h2>Por Selene Ramirez y Santiago Zacarias</h2>
+* Alumno: Selene Ramirez
+* Curso: 4º 2ª
+* Materia: control de interfaces
+* colaboradores: Santiago Zacarias
